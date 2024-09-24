@@ -1,0 +1,91 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+/* navigation */
+
+.nav{
+  display: flex;
+ 
+  height: 100px;
+  position: fixed;
+  width: 1535px; 
+  /* left: -10px;*/
+  top: 0px; 
+  font-size: 20px;
+  justify-content: space-between;
+ }
+ .logo {
+  display: flex;
+  
+ }
+
+ .logo img{
+  
+  /* width: 90px;
+  padding: 7px 5px 5px 10px;
+  margin-right: 52px; */
+ }
+ .loname{
+  display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  gap: 21px;
+}
+ 
+ .loname h1{
+  height: 0px;
+  font-size: 19px;
+  margin-top: 31px;
+
+ }
+ .loname p{
+
+ }
+
+.con{
+  display: flex; 
+  gap: 20px;
+  list-style: none;
+  color: rgb(0, 0, 0);
+   padding: 21px;
+   margin-left: -85px;
+}  
+
+/* signup css */
+.sign{
+  
+}
+.signup{
+
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+
+}
+.inputs{
+  display: flex;
+  flex-direction: column;
+
+
+}
+/* -------------------------------------signup--------------------------------------------------------------------- */
+.info{
+
+}
+.intro{
+
+}
+.intro h3{
+
+}
+.intro h5{
+
+}
+.intro p{
+
+}
